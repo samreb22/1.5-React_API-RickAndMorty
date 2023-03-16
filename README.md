@@ -1,4 +1,4 @@
-Práctica 1.5-React_API-RickAndMorty
+# Práctica 1.5-React_API-RickAndMorty
 
 ![image](https://user-images.githubusercontent.com/127318967/224808126-3ce3cb9b-9c92-4001-adc6-9c5aa526ea3a.png) ![image](https://user-images.githubusercontent.com/127318967/225588500-e7772f88-685d-4e91-8f1b-793778756cc2.png)
 
